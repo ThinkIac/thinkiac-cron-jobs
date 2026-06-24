@@ -1,0 +1,6 @@
+{
+  "name": "cron-jobs",
+  "version": "1.0.0",
+  "description": "Structured cron scheduler replacing Aurora facts.md scheduler",
+  "type": "module"
+}
